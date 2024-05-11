@@ -1,2 +1,2 @@
 # Personal-Website
-I will going to release some nus personal notes in this website
+I will be releasing some nus personal notes on this website.
