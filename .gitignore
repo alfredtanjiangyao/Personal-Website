@@ -5,7 +5,7 @@
 /build
 
 # Other sections
-/blog
+blog/
 
 # Generated files
 .docusaurus
