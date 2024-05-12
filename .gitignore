@@ -6,6 +6,7 @@
 
 # Other sections
 blog/
+docs/
 
 # Generated files
 .docusaurus
