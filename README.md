@@ -10,7 +10,12 @@ For my own information,
 npm start
 ```
 
-hi 
+2. Terminate the app
+
+```bash
+Ctrl + C
+```
+
 
 
 [1]: https://docusaurus.io/            "Docusaurus 2"
